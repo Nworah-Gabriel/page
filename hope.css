@@ -1,0 +1,46 @@
+#top{
+    background-image: url("/Users/SAGGIO GABRIELLO/Downloads/luca-bravo-XJXWbfSo2f0-unsplash.jpg");
+    text-align: center;
+    padding: 10px;
+    -webkit-box-align: center;
+}
+#a,b,c,d, button{
+    height: 60px;
+    width: 200px;
+    margin: 30px;
+    font-size: 30px;
+    box-shadow: 3px;
+    background-color:gray;
+    border-radius: 10px;
+    backface-visibility: visible;
+    -webkit-box-align: center;
+    opacity: 0.2px;
+}
+#one{
+    text-align: center;
+    color: honeydew;
+}
+#img1, #img2, #img3 {
+    height: 200px;
+    width: 400px;
+    padding: 30px;
+}
+#loom{
+    background-color: lightblue;
+}
+#moon{
+    width: 783px;
+    text-align: center;
+    display: -webkit-box;
+}
+#boom{
+    display: -webkit-box;
+}
+#mat{
+    margin-left: 10px;
+}
+#p{
+    font-size: 20px;
+    text-align: left;
+    -webkit-box-align: center;
+}

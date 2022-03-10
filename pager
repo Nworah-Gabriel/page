@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="utf-8">
+        <link href="project1.css" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    </head>
+    <body id="body">
+        <div id="main">
+            <img src="/Users/SAGGIO GABRIELLO/Documents/New folder/cybersafe.png.png" id="filt">
+            <nav id="navigator">
+                 <button id="butt"><a>Home</a></button>
+                 <button id="butt"><a>Explore</a></button>
+                  <button id="butt"><a>About</a></button>
+                <button id="butt"><a>Contact</a></button>
+
+            </nav>
+
+        </div>
+        <div id="section">
+            <h1 id="head1">Managed security</h1>
+            <p id="paragraph" title="this is a paragraph">Our team helps you and thousands of other to be free from cyber threat and also employs cyber experts, you can apply on the button below. </p>
+            <button id="apply" href="/Users/SAGGIO GABRIELLO/Documents/pdfs/work.html" onclick="myfunct()">Apply</button>
+            <script>
+                function myfunct(){
+                    alert("you just clicked an empty button!")
+                }
+            </script>
+        </div>
+    </body>
+</html> 

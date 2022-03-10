@@ -16,9 +16,10 @@
     font-weight: bold;
 }
 #body{
-    background-image: url("/Users/SAGGIO GABRIELLO/Documents/New folder/keyboard2.jpeg");
+    /* background-image: url("/Users/SAGGIO GABRIELLO/Documents/New folder/keyboard2.jpeg");
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: cover; */
+    background-color: black;
 
 }
 #head1{
